@@ -2,7 +2,7 @@
 	/**
 	* Project   : Free Mine
 	* Author    : Muammer ÇATLI
-	* EMail     : codermua@gmail.com
+	* Twitter   : @muammercatli
 	* Last Edit : 19.08.2017
 	*/
 
